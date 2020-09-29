@@ -1,9 +1,11 @@
-# Keyboards
+# Keyboard
 
-My build notes and firmwares.
+A repository for by build notes and firmwares.
 
 
 ## Atreus
+
+### Notes
 
 ### Firmwares
 
@@ -11,7 +13,19 @@ My build notes and firmwares.
 * [Grauwoelfchen's dvorak layout for AtrEus (GAE) - GitHub.com](https://github.com/grauwoelfchen/gae)
 
 
+## Keyboardio Atreus
+
+### Notes
+
+### Firmwares
+
+* [Grauwoelfchen's software dvorak based layout for Keyboardio Atreus (GKA) - GitLab.com](https://gitlab.com/grauwoelfchen/gka)
+* [Grauwoelfchen's software dvorak based layout for Keyboardio Atreus (GKA) - GitHub.com](https://github.com/grauwoelfchen/gka)
+
+
 ## Planck
+
+### Notes
 
 ### Firmwares
 
@@ -21,6 +35,8 @@ My build notes and firmwares.
 
 ## Helix
 
+### Notes
+
 ### Firmwares
 
 * [Grauwoelfchen's dvorak keymaps and settings for Helix keyboard Customization (GHC) - GitLab.com](https://gitlab.com/grauwoelfchen/ghc)
@@ -29,10 +45,13 @@ My build notes and firmwares.
 
 ## ErgoDox
 
+### Notes
+
 I can't remember how I did :'(
 
+### Firmwares
 
-## Others
 
-* HHKB
-* Kiness Advantage
+## Original hand wired
+
+TODO
